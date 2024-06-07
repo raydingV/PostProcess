@@ -30,6 +30,19 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "OpenXRViveTracker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android"
+			]
+		},
+		{
+			"Name": "LiveLinkVRPN",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
